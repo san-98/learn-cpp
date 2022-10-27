@@ -51,3 +51,12 @@ int main() {
    return 0;
 }
 ```
+
+``` cpp
+#include<iostream>
+using namespace std;
+int main() {
+    cout << "Hacktoberfest 2022";
+   return 0;
+}
+```
